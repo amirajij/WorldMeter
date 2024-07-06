@@ -23,28 +23,18 @@ The program utilizes `.csv` files for data regarding countries, cities, and popu
 - INSERT_CITY - Inserts a new city into the data structure.
 - REMOVE_COUNTRY - Removes a specified country and updates the list of cities.
 
-## Game Examples
+## Program Examples
 
 <div style="text-align: center;">
-    <img src="Images/a.png" alt="Game Example 1" width="400"/>
-    <p><em>Definition of the board</em></p>
+    <img src="images/image1.png" alt="Commands Exemple" width="400"/>
+    <p><em>Commands exemple</em></p>
 </div>
 
-<div style="text-align: center;">
-    <img src="Images/b.png" alt="Game Example 2" width="400"/>
-    <p><em>Shooting and game winner</em></p>
-</div>
-
-## Save and Load Game Examples
+## Insert and Remove Examples
 
 <div style="text-align: center;">
-    <img src="Images/e.png" alt="Save and Load Example 1" width="400"/>
-    <p><em>Saving the game after defining the board</em></p>
-</div>
-
-<div style="text-align: center;">
-    <img src="Images/f.png" alt="Save and Load Example 2" width="400"/>
-    <p><em>Loading the game saved earlier</em></p>
+    <img src="images/image2.png" alt="Insert and Remove Exemple" width="400"/>
+    <p><em>Insert and remove exemple</em></p>
 </div>
 
 ## Author
