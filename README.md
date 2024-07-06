@@ -2,7 +2,7 @@
 
 This project was developed as part of the Algorithms and Data Structures course during the second semester of my BSc degree. It allows performing various queries about countries, cities, and population data. The project focuses on implementing data structures that provide efficient search, insertion, deletion, and data processing operations.
 
-The program utilizes `.csv` files for data regarding countries, cities, and populations. It also includes unit tests to ensure the correctness and reliability of the operations and data manipulations.
+The program utilizes `.csv` files for data regarding countries, cities, and populations. It also includes unit tests (test-files) to ensure the correctness and reliability of the operations and data manipulations.
 
 ## Commands List
 
