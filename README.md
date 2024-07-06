@@ -4,6 +4,8 @@ This project was developed as part of the Algorithms and Data Structures course 
 
 The program utilizes `.csv` files for data regarding countries, cities, and populations. It also includes unit tests (test-files) to ensure the correctness and reliability of the operations and data manipulations.
 
+PS: If you want to use the program with the original files, you must change the folder name to - "test-files".
+
 ## Commands List
 
 - COUNT_CITIES - Counts the number of cities with a population greater than or equal to a specified number.
